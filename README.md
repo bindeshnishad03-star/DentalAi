@@ -335,9 +335,8 @@ Recommendation
 
 Add your website screenshot here:
 
-```markdown
-![DentalAI Home Page](screenshots/home.png)
-```
+Homescreen(home.jpg.png)
+
 
 ### Image Upload
 
